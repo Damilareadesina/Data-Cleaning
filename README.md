@@ -1,7 +1,7 @@
 <h1>Damilareadesina - Data Cleaning</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Data cleaning is a vital process for every data analytics project you embark on. It serves as a foundation to every other building task involved in any project. This project, we used power query as a tool to process and cleaned the messy data. Power query have some amazing built-in function that helps reducing and transforming a large dataset to your suitable preference.
 <br />
 
 
