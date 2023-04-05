@@ -7,8 +7,8 @@ Data cleaning is a vital process for every data analytics project you embark on.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Power  Query</b> 
+
 
 <h2>Environments Used </h2>
 
