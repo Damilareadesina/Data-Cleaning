@@ -12,7 +12,7 @@ Data cleaning is a vital process for every data analytics project you embark on.
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Microsoft Excel</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
