@@ -17,8 +17,8 @@ Data cleaning is a vital process for every data analytics project you embark on.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Unclean Data: <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230529966-0f4aa79e-fff3-491c-b376-d69bcdfdd68d.JPG"/>
 <br />
 <br />
 Select the disk:  <br/>
@@ -44,6 +44,7 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+![MESSY1](https://user-images.githubusercontent.com/126564128/230529966-0f4aa79e-fff3-491c-b376-d69bcdfdd68d.JPG)
 
 <!--
  ```diff
