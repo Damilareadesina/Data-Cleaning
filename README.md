@@ -21,8 +21,8 @@ Unclean Data: <br/>
 <img src="https://user-images.githubusercontent.com/126564128/230529966-0f4aa79e-fff3-491c-b376-d69bcdfdd68d.JPG"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launching power query:  <br/>
+<img src="https://user-images.githubusercontent.com/126564128/230532945-cfdc7308-6c1e-424c-987c-36cb11448c75.JPG"/>
 <br />
 <br />
 Enter the number of passes: <br/>
